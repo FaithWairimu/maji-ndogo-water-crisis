@@ -48,5 +48,7 @@ I will be updating repositories regularly with:
 * Code walkthroughs
 * Notes and reference material
 * Final project (coming soon)
+<img width="959" alt="Workbench Screenshot" src="https://github.com/user-attachments/assets/e7b90f9a-7298-4549-b1a2-a94c4f21751a" />
+
 
 
