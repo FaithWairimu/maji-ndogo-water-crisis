@@ -22,6 +22,8 @@ The ALX Data Science Program is an intensive, project-based curriculum that teac
 | Version Control  | Git, GitHub                          |
 | Visualization    | Power BI, Tableau (optional), Plotly |
 | Collaboration    | Slack, Zoom, GitHub Projects         |
+<img width="557" alt="image" src="https://github.com/user-attachments/assets/98408efb-28ad-49db-8030-fabcc2d2851c" />
+
 ## Learning Methods
 The program uses the following methods to help us master each concept:
 * Peer Learning: We review each other's code and documentation.
